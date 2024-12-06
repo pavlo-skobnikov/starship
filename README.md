@@ -1,0 +1,2 @@
+# starship
+🌠🚀 configuration.
